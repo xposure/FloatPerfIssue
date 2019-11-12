@@ -1,3 +1,4 @@
+```
 // Validating benchmarks:
 // ***** BenchmarkRunner: Start   *****
 // ***** Found 1 benchmark(s) in total *****
@@ -107,7 +108,7 @@ Job=QuickJob  InvocationCount=2000  IterationCount=5
 LaunchCount=1  WarmupCount=3  
 
 | Method |     Mean |     Error |    StdDev |
-|------- |---------:|----------:|----------:|
+| ------ | -------: | --------: | --------: |
 | HelpMe | 4.151 ms | 0.0359 ms | 0.0093 ms |
 
 // * Legends *
@@ -122,3 +123,4 @@ Run time: 00:00:45 (45.43 sec), executed benchmarks: 1
 
 Global total time: 00:00:48 (48.87 sec), executed benchmarks: 1
 // * Artifacts cleanup *
+```
